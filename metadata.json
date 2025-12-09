@@ -1,0 +1,7 @@
+{
+  "name": "DataVision AI Hub",
+  "description": "Kapsamlı bir veri görselleştirme ve yapay zeka analiz paketi. 10+ grafik türü için CSV yükleyin, grafik resimlerini sesli geri bildirimle analiz edin.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
